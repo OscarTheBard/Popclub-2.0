@@ -1,0 +1,12 @@
+Addon for Towny
+Adds ability for towns to siege other towns
+Separate from wars between nations
+
+Functionality:
+- Mayor can /t siege another town.
+- Hard win condition: All players on the other team die.
+  Hard lose condition: All players on your team die.
+  Outcome: ???
+- Soft win condition: 1h passes without all team members dieing.
+  Soft lose condition: 1h passes without all team members dieing.
+  Outcome: ???
